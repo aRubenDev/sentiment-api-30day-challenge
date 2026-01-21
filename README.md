@@ -1,1 +1,1 @@
-# sentiment-api-30day-challenge
+# 🚀 Building a sentiment analysis API in 30 days
